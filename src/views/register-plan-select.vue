@@ -546,6 +546,14 @@ export default {
   text-align: justify;
   font-weight: 400;
 }
+@media(max-width: 991px) {
+  .register-plan-select-button {
+    text-align: center;
+  }
+  .register-plan-select-button1 {
+    text-align: center;
+  }
+}
 @media(max-width: 767px) {
   .register-plan-select-container05 {
     flex-direction: column;

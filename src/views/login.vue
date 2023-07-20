@@ -233,6 +233,13 @@ export default {
   border-right-width: 0px;
   border-bottom-width: 1px;
 }
+@media(max-width: 991px) {
+  .login-navlink {
+    text-align: center;
+    border-style: solid;
+    border-width: 0px;
+  }
+}
 @media(max-width: 479px) {
   .login-container4 {
     width: 90%;
