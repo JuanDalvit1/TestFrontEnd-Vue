@@ -327,6 +327,7 @@ export default {
   align-content: center;
   border-radius: var(--dl-radius-radius-radius8);
   margin-bottom: var(--dl-space-space-unit);
+  vertical-align: middle;
   text-decoration: none;
   background-color: #5800ff;
 }
@@ -435,6 +436,7 @@ export default {
   align-content: center;
   border-radius: var(--dl-radius-radius-radius8);
   margin-bottom: var(--dl-space-space-unit);
+  vertical-align: middle;
   text-decoration: none;
   background-color: #5800ff;
 }
@@ -543,6 +545,7 @@ export default {
   border-width: 0px;
   align-content: center;
   border-radius: var(--dl-radius-radius-radius8);
+  vertical-align: middle;
   text-decoration: none;
   background-color: #5800ff;
 }

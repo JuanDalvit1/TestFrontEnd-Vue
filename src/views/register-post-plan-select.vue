@@ -421,6 +421,7 @@ export default {
   border-width: 0px;
   border-radius: var(--dl-radius-radius-radius8);
   margin-bottom: var(--dl-space-space-unit);
+  vertical-align: middle;
   text-decoration: none;
   background-color: #5800ff;
 }
@@ -540,18 +541,22 @@ export default {
 }
 .register-post-plan-select-button1 {
   color: #5800ff;
+  float: center;
   width: 90%;
   height: 100px;
   font-size: 16px;
   font-style: normal;
   margin-top: var(--dl-space-space-unit);
+  text-align: center;
   font-family: Open Sans;
   font-weight: 400;
   border-color: #5800ff;
   border-style: solid;
   border-width: 1px;
+  align-content: center;
   border-radius: var(--dl-radius-radius-radius8);
   margin-bottom: var(--dl-space-space-unit);
+  vertical-align: middle;
   text-decoration: none;
   background-color: var(--dl-color-gray-white);
   border-top-width: 1px;

@@ -202,6 +202,7 @@ export default {
   align-self: center;
   text-align: center;
   border-style: inset;
+  vertical-align: middle;
   text-decoration: none;
   background-color: #5800ff;
 }
