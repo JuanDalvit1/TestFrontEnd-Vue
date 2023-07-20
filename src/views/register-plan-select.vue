@@ -313,15 +313,18 @@ export default {
 }
 .register-plan-select-button {
   color: var(--dl-color-gray-white);
+  float: center;
   width: 90%;
   height: 100px;
   font-size: 16px;
   font-style: normal;
   margin-top: var(--dl-space-space-unit);
+  text-align: center;
   font-family: Open Sans;
   font-weight: 400;
   border-style: inset;
   border-width: 0px;
+  align-content: center;
   border-radius: var(--dl-radius-radius-radius8);
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
@@ -418,15 +421,18 @@ export default {
 }
 .register-plan-select-button1 {
   color: var(--dl-color-gray-white);
+  float: center;
   width: 90%;
   height: 100px;
   font-size: 16px;
   font-style: normal;
   margin-top: var(--dl-space-space-unit);
+  text-align: center;
   font-family: Open Sans;
   font-weight: 400;
   border-style: inset;
   border-width: 0px;
+  align-content: center;
   border-radius: var(--dl-radius-radius-radius8);
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
@@ -524,15 +530,18 @@ export default {
 }
 .register-plan-select-button2 {
   color: var(--dl-color-gray-white);
+  float: center;
   width: 90%;
   height: 100px;
   margin: var(--dl-space-space-unit);
   font-size: 16px;
   font-style: normal;
+  text-align: center;
   font-family: Open Sans;
   font-weight: 400;
   border-style: inset;
   border-width: 0px;
+  align-content: center;
   border-radius: var(--dl-radius-radius-radius8);
   text-decoration: none;
   background-color: #5800ff;

@@ -196,8 +196,11 @@ export default {
 }
 .login-navlink {
   color: var(--dl-color-gray-white);
+  float: center;
   width: 90%;
   height: 60px;
+  align-self: center;
+  text-align: center;
   border-style: inset;
   text-decoration: none;
   background-color: #5800ff;
